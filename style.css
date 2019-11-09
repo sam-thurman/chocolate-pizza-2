@@ -1,0 +1,54 @@
+
+header {
+ width: 901px;
+ display: inline-block;
+}
+
+header ul {
+  list-style-type: none;
+}
+
+header li {
+  float: right;
+}
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#best-blog {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  float: left;
+}
+#full-checklist-div{
+  background-image:url(/img/list-bg.png);
+  height: 300px;
+  width: 900px;
+  font-size: 15pt;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#left-checklist {
+  float: left;
+}
+
+#right-checklist {
+  float: right;
+}
+
+#right-list-items {
+  margin-top: 30px;
+}
+
+#left-list-items {
+  margin-top: 30px;
+}
+
+main {
+  widows: 901px;
+}
+
+.horizontal-ruler {
+  width: 901px;
+  height: 3px;
+  background-image: repeat-x;
+}
+
